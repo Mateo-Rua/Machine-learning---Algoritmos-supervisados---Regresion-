@@ -158,15 +158,6 @@ El modelo optimizado con Optuna + SelectKBest logró:
 
 ---
 
-## 🔮 Mejoras Futuras
-
-- Comparar con otros algoritmos de regresión (Gradient Boosting, XGBoost, LightGBM).
-- Explorar feature engineering adicional (interacciones entre variables, transformaciones logarítmicas).
-- Aumentar el número de trials de Optuna para una exploración más exhaustiva del espacio de hiperparámetros.
-- Implementar serialización del modelo con `pickle` o `joblib` para despliegue.
-
----
-
 ## 👤 Autor
 
 **Mateo Rua**
